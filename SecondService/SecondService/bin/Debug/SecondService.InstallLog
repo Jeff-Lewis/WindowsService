@@ -1,0 +1,91 @@
+﻿Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service myService...
+Service myService has been successfully installed.
+Creating EventLog source myService in log Application...
+Committing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service myService...
+Creating EventLog source myService in log Application...
+Rolling back assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Restoring event log to previous state for source myService.
+Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service myService...
+Creating EventLog source myService in log Application...
+Rolling back assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Restoring event log to previous state for source myService.
+Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service myService...
+Creating EventLog source myService in log Application...
+Rolling back assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Restoring event log to previous state for source myService.
+Installing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+Installing service myService...
+Service myService has been successfully installed.
+Creating EventLog source myService in log Application...
+Committing assembly 'C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.InstallLog
+   assemblypath = C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe.config
+C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.exe
+C:\Users\user\source\repos\SecondService\SecondService\bin\Debug\SecondService.pdb
+C:\Users\user\source\repos\SecondService\SecondService\obj\Debug\SecondService.ProjectInstaller.resources
+C:\Users\user\source\repos\SecondService\SecondService\obj\Debug\SecondService.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SecondService\SecondService\obj\Debug\SecondService.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SecondService\SecondService\obj\Debug\SecondService.exe
+C:\Users\user\source\repos\SecondService\SecondService\obj\Debug\SecondService.pdb
+C:\Users\user\source\repos\SecondService\SecondService\obj\Debug\SecondService.csprojAssemblyReference.cache
